@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# custom ignore rules
+*.log
+.env
+First.ipynb
+
 # C extensions
 *.so
 
